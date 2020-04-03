@@ -22,7 +22,7 @@ class NavBarCustom extends Component {
       <div className="NavBarCustom">
         <ul> 
           <li><Link to="/">Inicio</Link></li> 
-          <li><a href="http://github.com">Link Repositório</a></li> 
+          <li><a href="https://github.com/pliniocampinas/desafio-experience">Link Repositório</a></li> 
           <SignInButton loggedIn={this.props.loggedIn} username={this.props.username} onLogout={this.props.onLogout}/>
         </ul> 
       </div>
