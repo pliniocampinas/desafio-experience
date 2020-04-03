@@ -1,0 +1,33 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+.clientes {
+    width: 800px;
+    margin: 40px;
+}
+
+
+.BotaoCadastros {
+    padding: 15px 0px;
+    background-color: #827ffe;
+    color: #fff;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: none;
+    width: 100%;
+}
+
+.BotaoCadastros:hover {
+    padding: 15px 0px;
+    color: #827ffe;
+    background-color: #e6e6e6;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: none;
+    width: 100%;
+}
